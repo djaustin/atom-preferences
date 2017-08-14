@@ -13,4 +13,6 @@
     core:
       autoRunCommand: "/C/Program\\ Files/Docker\\ Toolbox/start.sh"
       shell: "C:\\Program Files\\Git\\bin\\bash.exe"
+  wakatime:
+    apikey: "Saved in your ~/.wakatime.cfg file"
   welcome: {}
