@@ -1,0 +1,16 @@
+"*":
+  "atom-clock":
+    showClockIcon: true
+    showTooltip: true
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "fe0f705b-b8d9-402b-bdb1-4b93a74dd1c0"
+  "platformio-ide-terminal":
+    core:
+      autoRunCommand: "/C/Program\\ Files/Docker\\ Toolbox/start.sh"
+      shell: "C:\\Program Files\\Git\\bin\\bash.exe"
+  welcome: {}
