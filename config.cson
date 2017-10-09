@@ -1,14 +1,22 @@
 "*":
+  Zen:
+    softWrap: true
+    width: 90
   "atom-clock":
     showClockIcon: true
     showTooltip: true
   core:
     autoHideMenuBar: true
     telemetryConsent: "limited"
-  editor:
-    fontSize: 15
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor: {}
   "exception-reporting":
     userId: "fe0f705b-b8d9-402b-bdb1-4b93a74dd1c0"
+  "markdown-preview":
+    useGitHubStyle: true
   "platformio-ide-terminal":
     core:
       autoRunCommand: "/C/Program\\ Files/Docker\\ Toolbox/start.sh"
