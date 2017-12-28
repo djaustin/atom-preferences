@@ -7,6 +7,9 @@
     showTooltip: true
   core:
     autoHideMenuBar: true
+    disabledPackages: [
+      "autocomplete-en-en"
+    ]
     telemetryConsent: "limited"
     themes: [
       "atom-material-ui"
@@ -18,9 +21,14 @@
   "markdown-preview":
     useGitHubStyle: true
   "platformio-ide-terminal":
-    core:
-      autoRunCommand: "/C/Program\\ Files/Docker\\ Toolbox/start.sh"
-      shell: "C:\\Program Files\\Git\\bin\\bash.exe"
+    core: {}
+    style:
+      fontFamily: "\"SourceCodePro+Powerline+Awesome Regular\""
+  "todo-show":
+    sortBy: "Type"
   wakatime:
     apikey: "Saved in your ~/.wakatime.cfg file"
-  welcome: {}
+  welcome:
+    showOnStartup: false
+  wordcount:
+    alwaysOn: true

@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-11799-11619-wxc5om.vcqob9be29/package.tgz",
+        "raw": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-117109-7328-f6coro.x3x3v26gvi/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-11799-11619-wxc5om.vcqob9be29/package.tgz",
-        "spec": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-11799-11619-wxc5om.vcqob9be29/package.tgz",
+        "rawSpec": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-117109-7328-f6coro.x3x3v26gvi/package.tgz",
+        "spec": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-117109-7328-f6coro.x3x3v26gvi/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/apm-install-dir-11799-11619-19lpjm7.vluv8l4n29"
+      "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/apm-install-dir-117109-7328-11pfjg.ib6py9o1or"
     ]
   ],
-  "_from": "../d-11799-11619-wxc5om.vcqob9be29/package.tgz",
-  "_id": "markdown-writer@2.7.2",
+  "_from": "../d-117109-7328-f6coro.x3x3v26gvi/package.tgz",
+  "_id": "markdown-writer@2.7.3",
   "_inCache": true,
   "_location": "/markdown-writer",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-11799-11619-wxc5om.vcqob9be29/package.tgz",
+    "raw": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-117109-7328-f6coro.x3x3v26gvi/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-11799-11619-wxc5om.vcqob9be29/package.tgz",
-    "spec": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-11799-11619-wxc5om.vcqob9be29/package.tgz",
+    "rawSpec": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-117109-7328-f6coro.x3x3v26gvi/package.tgz",
+    "spec": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-117109-7328-f6coro.x3x3v26gvi/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-11799-11619-wxc5om.vcqob9be29/package.tgz",
-  "_shasum": "685112fc484fec822556f3803951eaa6c2e67d25",
+  "_resolved": "file:../d-117109-7328-f6coro.x3x3v26gvi/package.tgz",
+  "_shasum": "1a319cbdfa3106a4f49bc6a7df7e17113e9a3127",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-11799-11619-wxc5om.vcqob9be29/package.tgz",
-  "_where": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/apm-install-dir-11799-11619-19lpjm7.vluv8l4n29",
+  "_spec": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/d-117109-7328-f6coro.x3x3v26gvi/package.tgz",
+  "_where": "/private/var/folders/f5/84h1qszd0d9364tzvgzyyktc0000gn/T/apm-install-dir-117109-7328-11pfjg.ib6py9o1or",
   "activationCommands": {
     "atom-workspace": [
       "markdown-writer:new-post",
@@ -124,5 +124,5 @@
     "type": "git",
     "url": "git+https://github.com/zhuochun/md-writer.git"
   },
-  "version": "2.7.2"
+  "version": "2.7.3"
 }

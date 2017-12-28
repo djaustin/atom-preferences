@@ -1,6 +1,3 @@
-WakaTime
-========
-
 .. image:: https://travis-ci.org/wakatime/wakatime.svg
     :target: https://travis-ci.org/wakatime/wakatime
     :alt: Tests
@@ -21,6 +18,9 @@ WakaTime
     :target: https://wakaslack.herokuapp.com
     :alt: Slack
 
+
+WakaTime
+========
 
 Command line interface to `WakaTime <https://wakatime.com/>`_ used by all WakaTime `text editor plugins <https://wakatime.com/editors>`_.
 
@@ -78,8 +78,10 @@ format. An example config file with all available options::
     timeout = 30
     hostname = machinename
     [projectmap]
-        projects/foo = new project name
-        ^/home/user/projects/bar(\d+)/ = project{0}
+    projects/foo = new project name
+    ^/home/user/projects/bar(\d+)/ = project{0}
+    [git]
+    disable_submodules = false
 
 For commonly used configuration options, see examples in the `FAQ <https://wakatime.com/faq>`_.
 
